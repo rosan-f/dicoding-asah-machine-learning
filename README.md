@@ -26,7 +26,6 @@
 
 
   <img src="https://img.shields.io/badge/Learning-Active-green?style=for-the-badge&logo=github" />
- <img src="https://img.shields.io/badge/Progress-20%25-yellow?style=for-the-badge" />
  <img src="https://img.shields.io/badge/Dicoding-Asah-2F80ED?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
